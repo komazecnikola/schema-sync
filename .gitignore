@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-store/
+.npm/
+
+# Next.js
+.next/
+out/
+.next-static/
+.next-cache/
+.vercel/
+*.tsbuildinfo
+
+# Env & local
+.env*
+!.env.example
+.DS_Store
+*.local
+*.log
+
+# IDE
+.vscode/
+.idea/
